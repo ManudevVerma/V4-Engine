@@ -1,0 +1,55 @@
+Level: Info
+Message: DisplayVresionUpdatePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/manud/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWVersionUpdate.html?updateRequired=True&mandatory=False&newVersion=6.32.1051
+Line: 179
+-----------------------
+Level: Info
+Message: DisplayVresionUpdatePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/manud/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWVersionUpdate.html?updateRequired=True&mandatory=False&newVersion=6.32.1051
+Line: 179
+-----------------------
+Level: Info
+Message: DisplayMarketplaceWelcomePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/manud/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWMarketplaceWelcome.html?homeURL=https%3a%2f%2feu1-ifwe.3dexperience.3ds.com%2f%3faddinmode%3dsolidworks%26utm_medium%3dNATIVE_APP
+Line: 208
+-----------------------
+Level: Info
+Message: DisplayMarketplaceWelcomePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/manud/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWMarketplaceWelcome.html?homeURL=https%3a%2f%2feu1-ifwe.3dexperience.3ds.com%2f%3faddinmode%3dsolidworks%26utm_medium%3dNATIVE_APP
+Line: 208
+-----------------------
+Level: Info
+Message: DisplayVresionUpdatePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/manud/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWVersionUpdate.html?updateRequired=True&mandatory=False&newVersion=6.32.1051
+Line: 179
+-----------------------
+Level: Info
+Message: DisplayMarketplaceWelcomePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/manud/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWMarketplaceWelcome.html?homeURL=https%3a%2f%2feu1-ifwe.3dexperience.3ds.com%2f%3faddinmode%3dsolidworks%26utm_medium%3dNATIVE_APP
+Line: 208
+-----------------------
+Level: Info
+Message: DisplayVresionUpdatePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/manud/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWVersionUpdate.html?updateRequired=True&mandatory=False&newVersion=6.32.1051
+Line: 179
+-----------------------
+Level: Info
+Message: Autofocus processing was blocked because a document already has a focused element.
+Source: https://eu1.iam.3dexperience.3ds.com/login?serverId=FRONT_1_8089&service=https%3A//eu1-ifwe.3dexperience.3ds.com/%3Faddinmode%3Dsolidworks%26utm_medium%3DNATIVE_APP
+Line: 0
+-----------------------
+Level: Info
+Message: Tracker.js - init - version 2.0.15
+Source: https://eu1.iam.3dexperience.3ds.com/3DPassport/resources-240208162204/js/libs/Usage/Usage.js
+Line: 1
+-----------------------
+Level: Info
+Message: Autofocus processing was blocked because a document already has a focused element.
+Source: https://eu1.iam.3dexperience.3ds.com/login?serverId=FRONT_2_8089&service=https%3A//eu1-ifwe.3dexperience.3ds.com/%3Faddinmode%3Dsolidworks%26utm_medium%3DNATIVE_APP
+Line: 0
+-----------------------
+Level: Info
+Message: Tracker.js - init - version 2.0.15
+Source: https://eu1.iam.3dexperience.3ds.com/3DPassport/resources-240208162204/js/libs/Usage/Usage.js
+Line: 1
+-----------------------
